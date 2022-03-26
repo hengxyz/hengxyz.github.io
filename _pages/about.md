@@ -31,6 +31,11 @@ My research interests span in computer vision, vision & language and deep learni
 - <font size=3><em>12/2020: Our paper entitled "A survey on anti-spoofing methods for facial recognition with rgb cameras of generic consumer devices" is accepted at <strong>Journal of Imaging </strong>.</em></font>
 - <font size=3><em>05/2020: Our paper entitled "Cross-modal deep networks for document image classification" is accepted at <strong>ICIP 2020</strong>.</em></font>
 
+## *Academic Activities :* 
 
-
-
+<em>Organising scientific activities:</em>
+  <font size=4>20th International Conference on Computational Linguistics and Intelligent Text Processing, 2019</font></br>
+  <font size=4>15TH IAPR INTERNATIONAL WORKSHOP ON DOCUMENT ANALYSIS SYSTEMS (DAS2022)</font></br>
+</br>
+<em>Invited Reviewer</em>:</br>
+<font size=4>Neurocomputing, Sensors, Electronic, ICPR'18,22, ICDAR'17,19</font>   
