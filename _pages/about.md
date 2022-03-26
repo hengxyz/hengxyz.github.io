@@ -34,8 +34,10 @@ My research interests span in computer vision, vision & language and deep learni
 ## *Academic Activities :* 
 
 *Organising scientific activities:*
+
   <font size=3>[20th International Conference on Computational Linguistics and Intelligent Text Processing, 2019](http://www.cicling.org/2019/)</font>
   <font size=3>[15TH IAPR INTERNATIONAL WORKSHOP ON DOCUMENT ANALYSIS SYSTEMS (DAS2022)](https://das2022.univ-lr.fr/)</font>
 
 *Invited Reviewer</em>:*
+
 <font size=3>Neurocomputing, Sensors, Electronic, ICPR'18,22, ICDAR'17,19</font>   
