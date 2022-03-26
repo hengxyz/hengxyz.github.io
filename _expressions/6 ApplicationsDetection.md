@@ -19,7 +19,21 @@ redirect_to:
 
 - **Road Defect Detection**: (Python, Pytorch, OpenCV, GPUs/TitanX), 2019
    - Collaborating with Start-up (Chine); 
+   - YOLO3 / recall 0.70
 <video id="video" width="480" height="360" controls="" preload="none">
     <source src="/images/Head_small_2min.mp4" type="video/mp4">
 </video>
+   - Faster-RCNN with backbone Inception3 / recall 0.7224
+<video id="video" width="480" height="360" controls="" preload="none">
+    <source src="/images/Head_small_2min.mp4" type="video/mp4">
+</video>
+   - Faster-RCNN with backbone MobileNet / recall 0.687
+<video id="video" width="480" height="360" controls="" preload="none">
+    <source src="/images/Head_small_2min.mp4" type="video/mp4">
+</video>
+   - Faster-RCNN with backbone VGG16 / recall 0.4945
+<video id="video" width="480" height="360" controls="" preload="none">
+    <source src="/images/Head_small_2min.mp4" type="video/mp4">
+</video>
+
 
