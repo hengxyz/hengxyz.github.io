@@ -1,5 +1,5 @@
 ---
-title: "<font color=blue><u>SHyNE (ESR 2022)</u></font>"
+title: "<font color=blue><u>SHyNE (ESR 2022): </u></font>"
 collection: expressions
 excerpt: "Interdisciplinary applications of deep learning and material science to develop new material being more resistant to corrosion of Hydrogen."
 redirect_to: 
