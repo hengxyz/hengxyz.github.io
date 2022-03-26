@@ -16,3 +16,10 @@ redirect_to:
 <video id="video" width="480" height="360" controls="" preload="none">
     <source src="/images/Head_small_2min.mp4" type="video/mp4">
 </video>
+
+- **Road Defect Detection**: (Python, Pytorch, OpenCV, GPUs/TitanX), 2019
+   - Collaborating with Start-up (Chine); 
+<video id="video" width="480" height="360" controls="" preload="none">
+    <source src="/images/Head_small_2min.mp4" type="video/mp4">
+</video>
+
