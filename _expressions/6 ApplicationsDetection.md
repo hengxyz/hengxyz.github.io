@@ -22,7 +22,7 @@ redirect_to:
    
    - YOLO3 / recall 0.70
    <video id="video" width="480" height="360" controls="" preload="none">
-       <source src="/images/Head_small_2min.mp4" type="video/mp4">
+       <source src="/images/crack_Yolo3.mp4" type="video/mp4">
    </video>
 
    - Faster-RCNN with backbone Inception3 / recall 0.7224
