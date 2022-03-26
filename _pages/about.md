@@ -22,8 +22,8 @@ My research interests span in computer vision, vision & language and deep learni
 - <font size=3><em>03/2022: Our work using firstly Video-based Transformer for face anti-spoofing entitled ViTransPAD is </em> <a href="https://arxiv.org/pdf/2203.01562.pdf" title="ViTransPAD">online!</a></font>
 - <font size=3><em>03/2022: Our paper working on multimodal cross self-attention for document images classification passes to the second round review of <strong>IJCAI-ECAI 2022</strong>.</em></font>
 - <font size=3><em>02/2022: Our paper entitled "Exploring Multi-Tasking Learning in Document Attribute Classification" is accepted at <strong>Pattern Recognition Lettres</strong>.</em></font>
-- <font size=3><em>01/2022: I will be serving as Technical Committee of <strong><a href="https://www.icpr2022.com/", style="color:DodgerBlue;">ICPR 2022]</a></strong>!</em></font>
-- <font size=3><em>01/2022: I will be serving to organize <strong><strong><a href="https://das2022.univ-lr.fr/", style="color:DodgerBlue;">DAS 2022</a></strong>, hope to meet more researchers in La Rochelle, France!</em></font>
+- <font size=3><em>01/2022: I will be serving as Technical Committee of <strong><a href="https://www.icpr2022.com/", style="color:DodgerBlue;">ICPR 2022</a></strong>!</em></font>
+- <font size=3><em>01/2022: I will be serving to organize <strong><a href="https://das2022.univ-lr.fr/", style="color:DodgerBlue;">DAS 2022</a></strong>, hope to meet more researchers in La Rochelle, France!</em></font>
 - <font size=3><em>10/2021: Our paper entitled "MIDV-2020: A Comprehensive Benchmark Dataset for Identity Document Analysis" is accepted at <strong>Jounal of Computer Optics</strong>.</em></font>
 - <font size=3><em>09/2021: Our paper entitled "EAML: ensemble self-attention-based mutual learning network for document image classification" is accepted at <strong>International Journal on Document Analysis and Recognition </strong>.</em></font>
 - <font size=3><em>08/2021: We release the new benchmark for Identity Document Analysis: <strong>MIDV-2020!</strong> <a href="http://l3i-share.univ-lr.fr/MIDV2020/midv2020.html" title="MIDV2020">[Download]</a></em>.</font>
