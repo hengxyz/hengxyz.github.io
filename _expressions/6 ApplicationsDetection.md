@@ -17,7 +17,7 @@ redirect_to:
     <source src="/images/Head_small_2min.mp4" type="video/mp4">
 </video>
 
-- **Road Defect Detection**: (Python, Pytorch, OpenCV, GPUs/TitanX), 2019
+- **Road Defects (crack, hole) Detection**: (Python, Pytorch, OpenCV, GPUs/TitanX), 2019
    - Collaborating with a chinse startup; 
    
    - YOLO3 / recall 0.70
