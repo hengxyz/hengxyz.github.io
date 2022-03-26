@@ -18,7 +18,7 @@ redirect_to:
 </video>
 
 - **Road Defect Detection**: (Python, Pytorch, OpenCV, GPUs/TitanX), 2019
-   - Collaborating with an startup; 
+   - Collaborating with a startup; 
    
    - YOLO3 / recall 0.70
    <video id="video" width="480" height="360" controls="" preload="none">
