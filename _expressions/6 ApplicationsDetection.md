@@ -12,13 +12,13 @@ redirect_to:
 </video>
 
 - **Head Detection for Crowd counting in the metro entry**: (YOLO3, Python, Pytorch, OpenCV, GPUs/TitanX), 2019
-   - Collaborating with [Landmark Technology (Chine)](); 
+   - Collaborating with a startup; 
 <video id="video" width="480" height="360" controls="" preload="none">
     <source src="/images/Head_small_2min.mp4" type="video/mp4">
 </video>
 
 - **Road Defect Detection**: (Python, Pytorch, OpenCV, GPUs/TitanX), 2019
-   - Collaborating with Start-up (Chine); 
+   - Collaborating with an startup; 
    
    - YOLO3 / recall 0.70
    <video id="video" width="480" height="360" controls="" preload="none">
