@@ -43,4 +43,4 @@ My research interests span in computer vision, vision & language and deep learni
     
 **Invited Reviewer:**
 
-<font size=3><em>Neurocomputing, Sensors, Algorithms, ICPR'18,20,22, ICDAR'17,19, PRICAI21</em></font>   
+<font size=3><em>Neurocomputing, Sensors, Algorithms, ICPR'18,20,22, ICDAR'17,19, PRICAI'21</em></font>   
