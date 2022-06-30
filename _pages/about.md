@@ -19,7 +19,7 @@ My research interests span in computer vision, vision & language and deep learni
 - Data: Natural images, heterogeneous data (text, visiaul images, 3D depth images, caricatures)  
 
 ## *News :* 
-- <font size=3><em>03/2022: Our paper <a href="https://arxiv.org/pdf/2203.01562.pdf" title="ViTransPAD"> Video-based Transformer for face anti-spoofing entitled ViTransPAD </a> is </em> has been accepted in <strong>ICIP2022</strong>!</font>
+- <font size=3><em>03/2022: Our paper <a href="https://arxiv.org/pdf/2203.01562.pdf" title="ViTransPAD"> Video-based Transformer for face anti-spoofing entitled ViTransPAD </a></em> has been accepted in <strong>ICIP2022</strong>!</font>
 - <font size=3><em> 05/2022: Our work <a href="https://arxiv.org/pdf/2205.12029.pdf"> VLCDoC: Vision-Language Contrastive Pre-Training
 Model for Cross-Modal Document Classification </a></em>  is submitted to <strong>Patter Recognition</strong>!</font>
 - <font size=3><em>03/2022: Our work using firstly <a href="https://arxiv.org/pdf/2203.01562.pdf" title="ViTransPAD"> Video-based Transformer for face anti-spoofing entitled ViTransPAD </a> is </em> online!</font>
