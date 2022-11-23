@@ -14,7 +14,7 @@ I’m Zuheng Ming, an Assitant professor (Maitre de conférence) in [Université
 
 ## Research Interests: 
 - multimodal learning, computer vision, deep learning 
-- Document analysis, biometric, remote sensing, medical image processing
+- document analysis, biometric, remote sensing, medical image processing
 <!---
 My research interests span in computer vision, multimodal learning and deep learning as well as its applications.  
 - Applications: Biometrics (face anti-spoofing, face recognition, face detection); document images classifications; interdisciplinary applications of deep learning
