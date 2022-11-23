@@ -12,11 +12,15 @@ redirect_from:
 
 I’m Zuheng Ming, an Assitant professor (Maitre de conférence) in [Université Sorbonne Paris Nord (Université Paris-XIII)](https://www.univ-paris13.fr/) since the fall of 2022. Before, I was  an Enseignant-Cheurcheur Contactuel in the Computer Science department with [L3i](https://l3i.univ-larochelle.fr/) at [La Rochelle University](https://www.univ-larochelle.fr/en/), France. I was been a postdoc /vacataire in the [L3i](https://l3i.univ-larochelle.fr/) Lab of La Rochelle University supervised by [Pr. Jean-Christophe Burie](https://l3i.univ-larochelle.fr/Burie-Jean-Christophe-MCF-HDR) and [Pr. Muriel Visani](https://pageperso.univ-lr.fr/mvisani/). I spent also one year and a half as a postdoc in the [LaBRI](https://www.labri.fr/) of the [University of Bordeaux](https://www.u-bordeaux.com/) supervised by [Pr. Aurélie Bugeau](https://www.labri.fr/perso/bugeau/index.php). I obtained my Ph.D. degree from the [Gipsa-lab](http://www.gipsa-lab.grenoble-inp.fr/index.php) of the [University of Grenoble Alpes](https://www.univ-grenoble-alpes.fr/) supervised by [Pr. Gang Feng](http://www.gipsa-lab.grenoble-inp.fr/page_pro.php?vid=3995) and [Dr. Denis Beautemps](http://www.gipsa-lab.grenoble-inp.fr/page_pro.php?vid=132). Prior to coming to France, I obtained the MSc degree from [Beijing Institute of Technology](https://english.bit.edu.cn/) and BSc degree from [Hunan University](http://www-en.hnu.edu.cn/index.htm) in China.
 
-## Research Interests:
+## Research Interests: 
+- multimodal learning, computer vision, deep learning 
+- Document analysis, biometric, remote sensing
+<!---
 My research interests span in computer vision, multimodal learning and deep learning as well as its applications.  
 - Applications: Biometrics (face anti-spoofing, face recognition, face detection); document images classifications; interdisciplinary applications of deep learning
 - Methods: Supervised/Self-supervised deep learning methods (Transformers, CNNs, ...); Multimodal learning (language-vision), Multi-task learning and Metric learning; 
 - Data: Natural images, heterogeneous data (text, visiaul images, 3D depth images, caricatures)  
+--->
 
 ## *News :* 
 - <font size=3><em>07/2022: We are organizing a Special Issue <a href="https://www.mdpi.com/journal/electronics/special_issues/RY06T6PGQ0">"Deep Learning Approach for Secure and Trustworthy Biometric System" </a></em> on Electronics. Welcome to submit!
@@ -39,14 +43,14 @@ Model for Cross-Modal Document Classification </a></em>  is submitted to <strong
 **Guest Editors:**
   
 <font size=3><em>Special Issue <a href="https://www.mdpi.com/journal/electronics/special_issues/RY06T6PGQ0">"Deep Learning Approach for Secure and Trustworthy Biometric System" </a> on MDPI Electronics (IF=2.69)</em></font>  
-</br>
+
 
 **Organising scientific activities:**
 
 <font size=3><em><a href="https://das2022.univ-lr.fr/">15TH IAPR INTERNATIONAL WORKSHOP ON DOCUMENT ANALYSIS SYSTEMS (DAS2022)</a></em></font>    
   
 <font size=3><em><a href="http://www.cicling.org/2019/">20th International Conference on Computational Linguistics and Intelligent Text Processing, 2019]</a></em></font>    
-</br>
+
       
     
 **Invited Reviewer:**
