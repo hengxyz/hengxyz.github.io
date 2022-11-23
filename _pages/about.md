@@ -15,12 +15,13 @@ I’m Zuheng Ming, an Assitant professor (Maître de conférence) of computer sc
 ## Research Interests: 
 - multimodal learning, computer vision, deep learning 
 - document analysis, biometric, remote sensing, medical image processing
-<!---
+
+<!--
 My research interests span in computer vision, multimodal learning and deep learning as well as its applications.  
 - Applications: Biometrics (face anti-spoofing, face recognition, face detection); document images classifications; interdisciplinary applications of deep learning
 - Methods: Supervised/Self-supervised deep learning methods (Transformers, CNNs, ...); Multimodal learning (language-vision), Multi-task learning and Metric learning; 
 - Data: Natural images, heterogeneous data (text, visiaul images, 3D depth images, caricatures)  
---->
+-->
 
 ## *News :* 
 - <font size=3><em>07/2022: We are organizing a Special Issue <a href="https://www.mdpi.com/journal/electronics/special_issues/RY06T6PGQ0">"Deep Learning Approach for Secure and Trustworthy Biometric System" </a></em> on Electronics. Welcome to submit!
