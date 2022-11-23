@@ -44,16 +44,13 @@ Model for Cross-Modal Document Classification </a></em>  is submitted to <strong
 **Guest Editors:**
   
 <font size=3><em>Special Issue <a href="https://www.mdpi.com/journal/electronics/special_issues/RY06T6PGQ0">"Deep Learning Approach for Secure and Trustworthy Biometric System" </a> on MDPI Electronics (IF=2.69)</em></font>  
-
-
+  
 **Organising scientific activities:**
 
 <font size=3><em><a href="https://das2022.univ-lr.fr/">15TH IAPR INTERNATIONAL WORKSHOP ON DOCUMENT ANALYSIS SYSTEMS (DAS2022)</a></em></font>    
   
-<font size=3><em><a href="http://www.cicling.org/2019/">20th International Conference on Computational Linguistics and Intelligent Text Processing, 2019]</a></em></font>    
-
-      
-    
+<font size=3><em><a href="http://www.cicling.org/2019/">20th International Conference on Computational Linguistics and Intelligent Text Processing, 2019]</a></em></font>  
+  
 **Invited Reviewer:**
 
 <font size=3><em>Neurocomputing, Sensors, Algorithms, ICPR'18,20,22, ICDAR'17,19, PRICAI'21,22</em></font>   
