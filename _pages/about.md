@@ -41,7 +41,7 @@ Model for Cross-Modal Document Classification </a></em>  is submitted to <strong
 - <font size=3><em>05/2020: Our paper entitled "Cross-modal deep networks for document image classification" is accepted at <strong>ICIP 2020</strong>.</em></font>
 
 ## *Academic Activities :* 
-**Guest Editors:**
+**Guest Editor:**
   
 - <font size=3><em>Special Issue <a href="https://www.mdpi.com/journal/electronics/special_issues/RY06T6PGQ0">"Deep Learning Approach for Secure and Trustworthy Biometric System" </a> on MDPI Electronics (IF=2.69)</em></font>  
   
