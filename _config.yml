@@ -83,7 +83,7 @@ author:
   avatar           : "profile.jpg"
 #  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego: <ul><li><a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a></li> <li><a style='color: black;' href='http://hdsi.ucsd.edu'>Halıcıoğlu Data Science Institute</a></li></ul>"
 #  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego, in <ul> <li><a style="color: black;" href="http://communication.ucsd.edu">Department of Communication</a></li> <li><a style="color: black;" href="http://hdsi.ucsd.edu">Halıcıoğlu Data Science Institute</a></li> <li><a style="color: black;" href="http://ipe.ucsd.edu">Institute for Practical Ethics</a></li> </ul>"
-  bio              : "<br> <br> Assitant professor at <a style='color: black;' href='https://www.univ-paris13.fr/'>Université Sorbonne Paris Nord</a>"
+  bio              : "<br> <br> Assistant professor at <a style='color: black;' href='https://www.univ-paris13.fr/'>Université Sorbonne Paris Nord</a>"
   location         : "Paris, France"
   employer         : 
   googlescholar    : "https://scholar.google.fr/citations?user=8u735mcAAAAJ&hl=en"
