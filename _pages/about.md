@@ -24,7 +24,7 @@ My research interests span in computer vision, multimodal learning and deep lear
 -->
 
 ## *News :* 
-- <font size=3><em> <strong>[02/2023]</strong>: Our paper of multimodal learning for document image classification <a href="https://arxiv.org/pdf/2205.12029.pdf"> VLCDoC: Vision-Language Contrastive Pre-Training Model for Cross-Modal Document Classification </a></em>  has been accepted by <strong>Pattern Recognition (SJR Q1, IF 8.51)</strong>!</font>
+- <font size=3><em> <strong>[02/2023]</strong>: Our paper of multimodal learning for document image classification <a href="https://arxiv.org/pdf/2205.12029.pdf"> VLCDoC: Vision-Language Contrastive Pre-Training Model for Cross-Modal Document Classification </a></em>  has been accepted by <strong>Pattern Recognition (<em>SJR Q1, IF 8.51</em>)</strong>!</font>
 - <font size=3><em><strong>[01/2023]</strong>: We are organizing the <a href="https://www.euvip2023.org/"> 11th European Workshop on Visual Information Processing (EUVIP, IEEE) </a></em> which will be held on 11th-14th September 2023, in Gjøvik, Norway. Welcome to submit!
 - <font size=3><em>07/2022: We are organizing a Special Issue <a href="https://www.mdpi.com/journal/electronics/special_issues/RY06T6PGQ0">"Deep Learning Approach for Secure and Trustworthy Biometric System" </a></em> on Electronics. Welcome to submit!
 - <font size=3><em>[06/2022]: Our paper <a href="https://arxiv.org/pdf/2203.01562.pdf" title="ViTransPAD"> Video-based Transformer for face anti-spoofing entitled ViTransPAD </a></em> has been accepted in <strong>ICIP2022</strong>!</font>
