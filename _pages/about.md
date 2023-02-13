@@ -24,24 +24,23 @@ My research interests span in computer vision, multimodal learning and deep lear
 -->
 
 ## *News :* 
-- <font size=3><em> <strong>02/2023</strong>: Our paper <a href="https://arxiv.org/pdf/2205.12029.pdf"> VLCDoC: Vision-Language Contrastive Pre-Training
-Model for Cross-Modal Document Classification </a></em>  has been accepted by <strong>Pattern Recognition (SJR Q1, IF 8.51)</strong>!</font>
-- <font size=3><em><strong>01/2023</strong>: We are organizing the <a href="https://www.euvip2023.org/"> 11th European Workshop on Visual Information Processing (EUVIP, IEEE) </a></em> which will be held on 11th-14th September 2023, in Gjøvik, Norway. Welcome to submit!
+- <font size=3><em> <strong>[02/2023]</strong>: Our paper of multimodal learning for document image classification <a href="https://arxiv.org/pdf/2205.12029.pdf"> VLCDoC: Vision-Language Contrastive Pre-Training Model for Cross-Modal Document Classification </a></em>  has been accepted by <strong>Pattern Recognition (SJR Q1, IF 8.51)</strong>!</font>
+- <font size=3><em><strong>[01/2023</strong>: We are organizing the <a href="https://www.euvip2023.org/"> 11th European Workshop on Visual Information Processing (EUVIP, IEEE) </a></em> which will be held on 11th-14th September 2023, in Gjøvik, Norway. Welcome to submit!
 - <font size=3><em>07/2022: We are organizing a Special Issue <a href="https://www.mdpi.com/journal/electronics/special_issues/RY06T6PGQ0">"Deep Learning Approach for Secure and Trustworthy Biometric System" </a></em> on Electronics. Welcome to submit!
-- <font size=3><em>06/2022: Our paper <a href="https://arxiv.org/pdf/2203.01562.pdf" title="ViTransPAD"> Video-based Transformer for face anti-spoofing entitled ViTransPAD </a></em> has been accepted in <strong>ICIP2022</strong>!</font>
-- <font size=3><em> 05/2022: Our work <a href="https://arxiv.org/pdf/2205.12029.pdf"> VLCDoC: Vision-Language Contrastive Pre-Training
+- <font size=3><em>[06/2022]: Our paper <a href="https://arxiv.org/pdf/2203.01562.pdf" title="ViTransPAD"> Video-based Transformer for face anti-spoofing entitled ViTransPAD </a></em> has been accepted in <strong>ICIP2022</strong>!</font>
+- <font size=3><em> [05/2022]: Our work <a href="https://arxiv.org/pdf/2205.12029.pdf"> VLCDoC: Vision-Language Contrastive Pre-Training
 Model for Cross-Modal Document Classification </a></em>  is submitted to <strong>Pattern Recognition</strong>!</font>
-- <font size=3><em>03/2022: Our work using firstly <a href="https://arxiv.org/pdf/2203.01562.pdf" title="ViTransPAD"> Video-based Transformer for face anti-spoofing entitled ViTransPAD </a> is </em> online!</font>
-- <font size=3><em>03/2022: Our paper working on multimodal cross self-attention for document images classification passes to the second round review of <strong>IJCAI-ECAI 2022</strong>.</em></font>
-- <font size=3><em>02/2022: Our paper entitled "Exploring Multi-Tasking Learning in Document Attribute Classification" is accepted at <strong>Pattern Recognition Lettres</strong>.</em></font>
-- <font size=3><em>01/2022: I will be serving as Technical Committee of <strong><a href="https://www.icpr2022.com/">ICPR 2022</a></strong>!</em></font>
-- <font size=3><em>01/2022: I will be serving to organize <strong><a href="https://das2022.univ-lr.fr/">DAS 2022</a></strong>, hope to meet more researchers in La Rochelle, France!</em></font>
-- <font size=3><em>10/2021: Our paper entitled "MIDV-2020: A Comprehensive Benchmark Dataset for Identity Document Analysis" is accepted at <strong>Jounal of Computer Optics</strong>.</em></font>
-- <font size=3><em>09/2021: Our paper entitled "EAML: ensemble self-attention-based mutual learning network for document image classification" is accepted at <strong>International Journal on Document Analysis and Recognition </strong>.</em></font>
-- <font size=3><em>08/2021: We release the new benchmark for Identity Document Analysis: <strong>MIDV-2020!</strong> <a href="http://l3i-share.univ-lr.fr/MIDV2020/midv2020.html" title="MIDV2020">[Download]</a></em>.</font>
-- <font size=3><em>06/2021: Our paper entitled "Cross-modal photo-caricature face recognition based on dynamic multi-task learning" is accepted at <strong>International Journal on Document Analysis and Recognition </strong>.</em></font>
-- <font size=3><em>12/2020: Our paper entitled "A survey on anti-spoofing methods for facial recognition with rgb cameras of generic consumer devices" is accepted at <strong>Journal of Imaging </strong>.</em></font>
-- <font size=3><em>05/2020: Our paper entitled "Cross-modal deep networks for document image classification" is accepted at <strong>ICIP 2020</strong>.</em></font>
+- <font size=3><em>[03/2022]: Our work using firstly <a href="https://arxiv.org/pdf/2203.01562.pdf" title="ViTransPAD"> Video-based Transformer for face anti-spoofing entitled ViTransPAD </a> is </em> online!</font>
+- <font size=3><em>[03/2022]: Our paper working on multimodal cross self-attention for document images classification passes to the second round review of <strong>IJCAI-ECAI 2022</strong>.</em></font>
+- <font size=3><em>[02/2022]: Our paper entitled "Exploring Multi-Tasking Learning in Document Attribute Classification" is accepted at <strong>Pattern Recognition Lettres</strong>.</em></font>
+- <font size=3><em>[01/2022]: I will be serving as Technical Committee of <strong><a href="https://www.icpr2022.com/">ICPR 2022</a></strong>!</em></font>
+- <font size=3><em>[01/2022]: I will be serving to organize <strong><a href="https://das2022.univ-lr.fr/">DAS 2022</a></strong>, hope to meet more researchers in La Rochelle, France!</em></font>
+- <font size=3><em>[10/2021]: Our paper entitled "MIDV-2020: A Comprehensive Benchmark Dataset for Identity Document Analysis" is accepted at <strong>Jounal of Computer Optics</strong>.</em></font>
+- <font size=3><em>[09/2021]: Our paper entitled "EAML: ensemble self-attention-based mutual learning network for document image classification" is accepted at <strong>International Journal on Document Analysis and Recognition </strong>.</em></font>
+- <font size=3><em>[08/2021]: We release the new benchmark for Identity Document Analysis: <strong>MIDV-2020!</strong> <a href="http://l3i-share.univ-lr.fr/MIDV2020/midv2020.html" title="MIDV2020">[Download]</a></em>.</font>
+- <font size=3><em>[06/2021]: Our paper entitled "Cross-modal photo-caricature face recognition based on dynamic multi-task learning" is accepted at <strong>International Journal on Document Analysis and Recognition </strong>.</em></font>
+- <font size=3><em>[12/2020]: Our paper entitled "A survey on anti-spoofing methods for facial recognition with rgb cameras of generic consumer devices" is accepted at <strong>Journal of Imaging </strong>.</em></font>
+- <font size=3><em>[05/2020]: Our paper entitled "Cross-modal deep networks for document image classification" is accepted at <strong>ICIP 2020</strong>.</em></font>
 
 ## *Academic Activities :* 
 **Guest Editor:**
