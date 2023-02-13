@@ -25,12 +25,12 @@ My research interests span in computer vision, multimodal learning and deep lear
 
 ## *News :* 
 - <font size=3><em> 02/2023: Our work <a href="https://arxiv.org/pdf/2205.12029.pdf"> VLCDoC: Vision-Language Contrastive Pre-Training
-Model for Cross-Modal Document Classification </a></em>  has been accepted by <strong>Patter Recognition (SJR Q1, IF 8.51)</strong>!</font>
+Model for Cross-Modal Document Classification </a></em>  has been accepted by <strong>Pattern Recognition (SJR Q1, IF 8.51)</strong>!</font>
 - <font size=3><em>01/2023: We are organizing the <a href="https://www.euvip2023.org/"> 11th European Workshop on Visual Information Processing (EUVIP, IEEE) </a></em> which will be held on 11th-14th September 2023, in Gjøvik, Norway. Welcome to submit!
 - <font size=3><em>07/2022: We are organizing a Special Issue <a href="https://www.mdpi.com/journal/electronics/special_issues/RY06T6PGQ0">"Deep Learning Approach for Secure and Trustworthy Biometric System" </a></em> on Electronics. Welcome to submit!
 - <font size=3><em>06/2022: Our paper <a href="https://arxiv.org/pdf/2203.01562.pdf" title="ViTransPAD"> Video-based Transformer for face anti-spoofing entitled ViTransPAD </a></em> has been accepted in <strong>ICIP2022</strong>!</font>
 - <font size=3><em> 05/2022: Our work <a href="https://arxiv.org/pdf/2205.12029.pdf"> VLCDoC: Vision-Language Contrastive Pre-Training
-Model for Cross-Modal Document Classification </a></em>  is submitted to <strong>Patter Recognition</strong>!</font>
+Model for Cross-Modal Document Classification </a></em>  is submitted to <strong>Pattern Recognition</strong>!</font>
 - <font size=3><em>03/2022: Our work using firstly <a href="https://arxiv.org/pdf/2203.01562.pdf" title="ViTransPAD"> Video-based Transformer for face anti-spoofing entitled ViTransPAD </a> is </em> online!</font>
 - <font size=3><em>03/2022: Our paper working on multimodal cross self-attention for document images classification passes to the second round review of <strong>IJCAI-ECAI 2022</strong>.</em></font>
 - <font size=3><em>02/2022: Our paper entitled "Exploring Multi-Tasking Learning in Document Attribute Classification" is accepted at <strong>Pattern Recognition Lettres</strong>.</em></font>
