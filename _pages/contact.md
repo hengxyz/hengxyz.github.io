@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 Zuheng Ming (Ph.D.)  
+
 Maitre de conférence
 
 Laboratoire L2TI, Institut Galilée
