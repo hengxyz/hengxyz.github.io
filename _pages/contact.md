@@ -7,8 +7,11 @@ author_profile: true
 
 Zuheng Ming (Ph.D.)  
 Maitre de conférence
+
 Laboratoire L2TI, Institut Galilée
+
 Université Sorbonne Paris Nord (USPN)
+
 93430 Villetaneuse, France
 
 * E-mail: zuheng.ming [at] univ-paris13.fr
