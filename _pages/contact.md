@@ -6,13 +6,10 @@ author_profile: true
 ---
 
 Zuheng Ming (Ph.D.)  
-Enseigant chercheur contractuel (ECC)  
-Laboratoire Informatique, Image et Interaction (L3i)  
-La Rochelle Université  
-Avenue Michel Crépeau  
-17042 La Rochelle cedex   
+Maitre de conférence
+Laboratoire L2TI, Institut Galilée
+Université Sorbonne Paris Nord (USPN)
+93430 Villetaneuse, France
 
-l3i.univ-larochelle.fr
-
-* E-mail: zuheng.ming [at] univ-lr.fr
+* E-mail: zuheng.ming [at] univ-paris13.fr
 * Google Scholar: [author:Zuheng Ming](https://scholar.google.fr/citations?user=8u735mcAAAAJ&hl=en)
