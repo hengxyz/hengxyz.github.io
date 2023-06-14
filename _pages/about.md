@@ -57,6 +57,7 @@ Model for Cross-Modal Document Classification </a></em>  is submitted to <strong
 - <font size=3><em><a href="http://www.cicling.org/2019/">20th International Conference on Computational Linguistics and Intelligent Text Processing, 2019]</a></em></font>  
   
 **Reviewer:**
+- <font size=3><em>IEEE Transactions on Multimedia (IEEE TMM, JCR Q1) </em></font>
 - <font size=3><em>IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT, JCR Q1) </em></font>
 - <font size=3><em>Neurocomputing (Springer, JCR Q2)</em></font>
 - <font size=3><em>Computer Vision and Image Understanding (Springer, JCR Q2)</em></font>
