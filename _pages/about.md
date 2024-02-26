@@ -24,7 +24,7 @@ My research interests span in computer vision, multimodal learning and deep lear
 -->
 
 ## *News :* 
-- <img alt="Clips" src="/images/new2.gif" align="center" width="40"> <font size=3><em>[02/2024]: We are organizing the <a href="https://www.euvip2024.org/" style="color:red;"> 12th European Workshop on Visual Information Processing (EUVIP, IEEE) </a></em> which will be held on 8th-11th September 2024, in Geneva, Swissland. Welcome to submit!
+- <img alt="Clips" src="/images/new2.gif" align="center" width="40"> <font size=3><em><strong>[02/2024]</strong>: We are organizing the <a href="https://www.euvip2024.org/" style="color:red;"> 12th European Workshop on Visual Information Processing (EUVIP, IEEE) </a></em> which will be held on 8th-11th September 2024, in Geneva, Swissland. Welcome to submit!
 - <img alt="Clips" src="/images/new2.gif" align="center" width="40"> <font size=3><em><strong>[02/2024]</strong>: I will be serving as Program Committee of <strong><a href="https://icdar2024.net/">ICDAR 2024</a></strong>!</em></font>
 - <img alt="Clips" src="/images/new2.gif" align="center" width="40"> <font size=3><em><strong>[01/2024]</strong>: I will be serving as Technical Committee of <strong><a href="https://2024.ieeeicip.org/">ICIP 2024</a></strong>!</em></font>
 - <font size=3><em>[05/2023]: I will serve as a session chair at 	
