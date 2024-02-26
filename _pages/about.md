@@ -24,8 +24,8 @@ My research interests span in computer vision, multimodal learning and deep lear
 -->
 
 ## *News :* 
-- <img alt="Clips" src="/images/new2.gif" align="center" width="40"> <font size=3><em><strong>[20/2024]</strong>: I will be serving as Program Committee of <strong><a href="https://icdar2024.net/">ICDAR 2024</a></strong>!</em></font>
-- <img alt="Clips" src="/images/new2.gif" align="center" width="40"> <font size=3><em><strong>[20/2024]</strong>: I will be serving as Technical Committee of <strong><a href="https://2024.ieeeicip.org/">ICIP 2024</a></strong>!</em></font>
+- <img alt="Clips" src="/images/new2.gif" align="center" width="40"> <font size=3><em><strong>[02/2024]</strong>: I will be serving as Program Committee of <strong><a href="https://icdar2024.net/">ICDAR 2024</a></strong>!</em></font>
+- <img alt="Clips" src="/images/new2.gif" align="center" width="40"> <font size=3><em><strong>[01/2024]</strong>: I will be serving as Technical Committee of <strong><a href="https://2024.ieeeicip.org/">ICIP 2024</a></strong>!</em></font>
 - <font size=3><em><strong>[05/2023]</strong>: I will serve as a session chair at 	
  <a href="https://sifed2023.sciencesconf.org/" style="color:red;"> Symposium International Francophone sur l'Ecrit et le Document (SIFED 2023)! </a></em>
 - <font size=3><em><strong>[02/2023]</strong>: We are organizing the <a href="https://sites.google.com/view/icip-2023-object-detection/accueil" style="color:red;"> ICIP2023 Challenge Object Detection Under Uncontrolled Acquisition Environment and Scene Context Constraints </a></em> with <a href="https://www.universite-paris-saclay.fr/" style="color:black;"> <strong>University Paris Scalay</strong></a> and <a href="https://www.ntnu.edu/" style="color:black;"> <strong> NTNU </strong></a>! Welcome to submit!
