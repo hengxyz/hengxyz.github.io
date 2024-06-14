@@ -72,7 +72,7 @@ Model for Cross-Modal Document Classification </a></em>  is submitted to <strong
 **Conference Reviewer:**
 - <font size=3><em>NeurIPS 2024</em></font>
 - <font size=3><em>DAS 2024</em></font>
-- <font size=3><em>ICIP 2024,23</em></font>   
+- <font size=3><em>ICIP 2024, 2023</em></font>   
 - <font size=3><em>ICDAR 2024, 2019, 2017</em></font>   
 - <font size=3><em>ICPR 2022,2020,2018</em></font>   
 - <font size=3><em>PRICAI 2022,2021</em></font>   
