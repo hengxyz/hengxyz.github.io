@@ -16,12 +16,12 @@ I’m Zuheng Ming, a tenured assistant professor (Maître de conférence) of com
 - computer vision, multimodal learning, deep learning 
 - document analysis, biometric, remote sensing, medical image processing
 
-<!--
+<!---
 My research interests span in computer vision, multimodal learning and deep learning as well as its applications.  
 - Applications: Biometrics (face anti-spoofing, face recognition, face detection); document images classifications; interdisciplinary applications of deep learning
 - Methods: Supervised/Self-supervised deep learning methods (Transformers, CNNs, ...); Multimodal learning (language-vision), Multi-task learning and Metric learning; 
 - Data: Natural images, heterogeneous data (text, visiaul images, 3D depth images, caricatures)  
--->
+--->
 
 ## *News :* 
 - <img alt="Clips" src="/images/new2.gif" align="center" width="40"><font size=3><em><strong> [06/2024]</strong>: Our paper   MULTIMODAL TRANSFORMER USING CROSS-CHANNEL ATTENTION FOR OBJECT DETECTION IN REMOTE SENSING IMAGES </em>  has been accepted by <strong><a href="https://2024.ieeeicip.org/">ICIP2024 </a></strong>! Congratulations <em><strong>Bissmella Bahaduri ! </strong></em></font>
@@ -47,7 +47,8 @@ Model for Cross-Modal Document Classification </a></em>  is submitted to <strong
 - <font size=3><em>[09/2021]: Our paper entitled "EAML: ensemble self-attention-based mutual learning network for document image classification" is accepted at <strong>International Journal on Document Analysis and Recognition </strong>.</em></font>
 - <font size=3><em>[08/2021]: We release the new benchmark for Identity Document Analysis: <strong>MIDV-2020!</strong> <a href="http://l3i-share.univ-lr.fr/MIDV2020/midv2020.html" title="MIDV2020">[Download]</a></em>.</font>
 - <font size=3><em>[06/2021]: Our paper entitled "Cross-modal photo-caricature face recognition based on dynamic multi-task learning" is accepted at <strong>International Journal on Document Analysis and Recognition </strong>.</em></font>
-//- <font size=3><em>[12/2020]: Our paper entitled "A survey on anti-spoofing methods for facial recognition with rgb cameras of generic consumer devices" is accepted at <strong>Journal of Imaging //</strong>.</em></font>- <font size=3><em>[05/2020]: Our paper entitled "Cross-modal deep networks for document image classification" is accepted at <strong>ICIP 2020</strong>.</em></font>
+#- <font size=3><em>[12/2020]: Our paper entitled "A survey on anti-spoofing methods for facial recognition with rgb cameras of generic consumer devices" is accepted at <strong>Journal of Imaging </strong>.</em></font>
+#- <font size=3><em>[05/2020]: Our paper entitled "Cross-modal deep networks for document image classification" is accepted at <strong>ICIP 2020</strong>.</em></font>
 <!---
 ## *Current supervising students :* 
 **PhD Candidates **
