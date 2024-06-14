@@ -68,8 +68,16 @@ Model for Cross-Modal Document Classification </a></em>  is submitted to <strong
 - <font size=3><em><a href="https://www.euvip2023.org/">11th European Workshop on Visual Information Processing (EUVIP, IEEE)</a></em></font>
 - <font size=3><em><a href="https://das2022.univ-lr.fr/">15TH IAPR INTERNATIONAL WORKSHOP ON DOCUMENT ANALYSIS SYSTEMS (DAS2022)</a></em></font> 
 - <font size=3><em><a href="http://www.cicling.org/2019/">20th International Conference on Computational Linguistics and Intelligent Text Processing, 2019]</a></em></font>  
-  
-**Reviewer:**
+
+**Conferences Reviewer:**
+- <font size=3><em>NeurIPS 2024</em></font>
+- <font size=3><em>DAS 2024</em></font>
+- <font size=3><em>ICIP 2024,23</em></font>   
+- <font size=3><em>ICDAR 2024, 2019, 2017</em></font>   
+- <font size=3><em>ICPR 2022,2020,2018</em></font>   
+- <font size=3><em>PRICAI 2022,2021</em></font>   
+
+**Journal Reviewer:**
 - <font size=3><em>IEEE Transactions on Information Forensics and Security (IEEE TIFS, JCR Q1) </em></font>
 - <font size=3><em>IEEE Transactions on Multimedia (IEEE TMM, JCR Q1) </em></font>
 - <font size=3><em>IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT, JCR Q1) </em></font>
