@@ -50,6 +50,10 @@ Model for Cross-Modal Document Classification </a></em>  is submitted to <strong
 - <font size=3><em>[12/2020]: Our paper entitled "A survey on anti-spoofing methods for facial recognition with rgb cameras of generic consumer devices" is accepted at <strong>Journal of Imaging </strong>.</em></font>
 - <font size=3><em>[05/2020]: Our paper entitled "Cross-modal deep networks for document image classification" is accepted at <strong>ICIP 2020</strong>.</em></font>
 
+## *Current supervising students :* 
+### *PhD Candidates ###
+### *Master students ###
+
 ## *Academic Activities :* 
 **Guest Editor:**
   
