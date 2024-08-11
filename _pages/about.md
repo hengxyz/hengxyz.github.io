@@ -85,6 +85,7 @@ Model for Cross-Modal Document Classification </a></em>  is submitted to <strong
 - <font size=3><em>Pattern Recognition (PR, JCR Q1) </em></font>
 - <font size=3><em>EURASIP Journal on Image and Video Processing(Springer, JCR Q2) </em></font>
 - <font size=3><em>Neurocomputing (Springer, JCR Q2)</em></font>
+- <font size=3><em>Signal Processing (ELSEVIER, JCR Q2)</em></font>
 - <font size=3><em>Computer Vision and Image Understanding (Springer, JCR Q2)</em></font>
 - <font size=3><em> International Journal on Document Analysis and Recognition (Springer IJDAR, JCR Q2)</em></font>
 - <font size=3><em> Signal Image and Video Processing (Springer, JCR Q4)</em></font>
