@@ -82,7 +82,7 @@ Model for Cross-Modal Document Classification </a></em>  is submitted to <strong
 - <font size=3><em>PRICAI 2022,2021</em></font>   
 
 **Invited Journal Reviewer:**
-- <font size=3><em>Nature Machine Intelligence (Nature Portfolio journals, IF 18.8) </em></font>
+- <font size=3><em>Nature Machine Intelligence (Nature Portfolio journals, IF 18.8, Springer) </em></font>
 - <font size=3><em>IEEE Transactions on Information Forensics and Security (IEEE TIFS, JCR Q1) </em></font>
 - <font size=3><em>IEEE Transactions on Multimedia (IEEE TMM, JCR Q1) </em></font>
 - <font size=3><em>IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT, JCR Q1) </em></font>
