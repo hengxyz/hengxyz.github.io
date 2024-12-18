@@ -24,7 +24,7 @@ My research interests span in computer vision, multimodal learning and deep lear
 --->
 
 ## *News :* 
-- <img alt="Clips" src="/images/new2.gif" align="center" width="40"> <font size=3><em><strong>[05/2024]</strong>: I will be serving as Technical Committee of <strong><a href="https://cvpr.thecvf.com/">CVPR 2025</a></strong>!</em></font>
+- <img alt="Clips" src="/images/new2.gif" align="center" width="40"> <font size=3><em><strong>[12/2024]</strong>: I will be serving as Technical Committee of <strong><a href="https://cvpr.thecvf.com/">CVPR 2025</a></strong>!</em></font>
 - <img alt="Clips" src="/images/new2.gif" align="center" width="40"><font size=3><em><strong> [11/2024]</strong>: Our paper <a href="https://arxiv.org/abs/2309.05756">  GlobalDoc: A Cross-Modal Vision-Language Framework for Real-World Document Image Retrieval and Classification </a> </em>  has been accepted by <strong><a href="https://wacv2025.thecvf.com/">WACV 2025 !</a></strong></font>
 - <img alt="Clips" src="/images/new2.gif" align="center" width="40"><font size=3><em><strong> [06/2024]</strong>: Our paper <a href="https://arxiv.org/pdf/2310.13876">  MULTIMODAL TRANSFORMER USING CROSS-CHANNEL ATTENTION FOR OBJECT DETECTION IN REMOTE SENSING IMAGES </a> </em>  has been accepted by <strong><a href="https://2024.ieeeicip.org/">ICIP 2024</a></strong><span style="color:red">(Oral presentation)</span>! Congratulations <em><strong>Bissmella Bahaduri ! </strong></em></font>
 - <img alt="Clips" src="/images/new2.gif" align="center" width="40"> <font size=3><em><strong>[05/2024]</strong>: I will be serving as Technical Committee of <strong><a href="https://neurips.cc/">NeurIPS 2024</a></strong>!</em></font>
@@ -73,6 +73,7 @@ Model for Cross-Modal Document Classification </a></em>  is submitted to <strong
 - <font size=3><em><a href="http://www.cicling.org/2019/">20th International Conference on Computational Linguistics and Intelligent Text Processing, 2019]</a></em></font>  
 
 **Invited Conference Reviewer:**
+- <font size=3><em>CVPR 2025</em></font>
 - <font size=3><em>ICASSP 2025</em></font>
 - <font size=3><em>ICLR 2025</em></font>
 - <font size=3><em>NeurIPS 2025</em></font>
