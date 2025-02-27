@@ -24,7 +24,7 @@ My research interests span in computer vision, multimodal learning and deep lear
 --->
 
 ## *News :* 
-- <img alt="Clips" src="/images/new2.gif" align="center" width="40"> <font size=3><em><strong>[02/2025]</strong>: I will be serving as <em><strong>Area Chair</em></strong> of <strong><a href="https://2025.ieeeicip.org/">ICIP 2025</a></strong>!</em></font>
+- <img alt="Clips" src="/images/new2.gif" align="center" width="40"> <font size=3><em><strong>[02/2025]</strong>: I will be serving as <em><strong>Area Chair</strong></em> of <strong><a href="https://2025.ieeeicip.org/">ICIP 2025</a></strong>!</em></font>
 - <img alt="Clips" src="/images/new2.gif" align="center" width="40"> <font size=3><em><strong>[02/2025]</strong>: I will be serving as Technical Committee of <strong><a href="https://www.icdar2025.com/">ICDAR 2025</a></strong>!</em></font>
 - <img alt="Clips" src="/images/new2.gif" align="center" width="40"> <font size=3><em><strong>[12/2024]</strong>: I will be serving as Technical Committee of <strong><a href="https://cvpr.thecvf.com/">CVPR 2025</a></strong>!</em></font>
 - <img alt="Clips" src="/images/new2.gif" align="center" width="40"><font size=3><em><strong> [11/2024]</strong>: Our paper <a href="https://arxiv.org/abs/2309.05756">  GlobalDoc: A Cross-Modal Vision-Language Framework for Real-World Document Image Retrieval and Classification </a> </em>  has been accepted by <strong><a href="https://wacv2025.thecvf.com/">WACV 2025 !</a></strong></font>
