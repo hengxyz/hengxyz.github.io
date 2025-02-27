@@ -25,6 +25,7 @@ My research interests span in computer vision, multimodal learning and deep lear
 
 ## *News :* 
 - <img alt="Clips" src="/images/new2.gif" align="center" width="40"> <font size=3><em><strong>[02/2025]</strong>: I will be serving as <em><strong>Area Chair</em></strong> of <strong><a href="https://2025.ieeeicip.org/">ICIP 2025</a></strong>!</em></font>
+- <img alt="Clips" src="/images/new2.gif" align="center" width="40"> <font size=3><em><strong>[02/2025]</strong>: I will be serving as Technical Committee of <strong><a href="https://www.icdar2025.com/">ICDAR 2025</a></strong>!</em></font>
 - <img alt="Clips" src="/images/new2.gif" align="center" width="40"> <font size=3><em><strong>[12/2024]</strong>: I will be serving as Technical Committee of <strong><a href="https://cvpr.thecvf.com/">CVPR 2025</a></strong>!</em></font>
 - <img alt="Clips" src="/images/new2.gif" align="center" width="40"><font size=3><em><strong> [11/2024]</strong>: Our paper <a href="https://arxiv.org/abs/2309.05756">  GlobalDoc: A Cross-Modal Vision-Language Framework for Real-World Document Image Retrieval and Classification </a> </em>  has been accepted by <strong><a href="https://wacv2025.thecvf.com/">WACV 2025 !</a></strong></font>
 - <img alt="Clips" src="/images/new2.gif" align="center" width="40"><font size=3><em><strong> [06/2024]</strong>: Our paper <a href="https://arxiv.org/pdf/2310.13876">  MULTIMODAL TRANSFORMER USING CROSS-CHANNEL ATTENTION FOR OBJECT DETECTION IN REMOTE SENSING IMAGES </a> </em>  has been accepted by <strong><a href="https://2024.ieeeicip.org/">ICIP 2024</a></strong><span style="color:red">(Oral presentation)</span>! Congratulations <em><strong>Bissmella Bahaduri ! </strong></em></font>
@@ -80,7 +81,7 @@ Model for Cross-Modal Document Classification </a></em>  is submitted to <strong
 - <font size=3><em>NeurIPS 2025</em></font>
 - <font size=3><em>DAS 2024</em></font>
 - <font size=3><em>ICIP 2024, 2023</em></font>   
-- <font size=3><em>ICDAR 2024, 2019, 2017</em></font>   
+- <font size=3><em>ICDAR 2025, 2024, 2019, 2017</em></font>   
 - <font size=3><em>ICPR 2022,2020,2018</em></font>   
 - <font size=3><em>PRICAI 2022,2021</em></font>   
 
