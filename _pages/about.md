@@ -14,7 +14,7 @@ I’m Zuheng Ming, a tenured assistant professor (Maître de conférences) of co
 
 ## Research Interests: 
 - computer vision, multimodal learning, deep learning 
-- document analysis, robotic perception, biometric, remote sensing, medical image processing
+- document analysis, robotic perception, medical image processing, remote sensing, biometric
 
 <!---
 My research interests span in computer vision, multimodal learning and deep learning as well as its applications.  
