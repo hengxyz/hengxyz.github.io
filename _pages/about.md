@@ -24,6 +24,8 @@ My research interests span in computer vision, multimodal learning and deep lear
 --->
 
 ## *News :* 
+- <font size=3><em><strong> [06/2024]</strong>: Our paper <a href="https://arxiv.org/pdf/2310.13876">  LCMF: Lightweight Cross-Modality Mambaformer for Embodied Robotics VQA </a> </em>  has been accepted by <strong><a href="https://ieee-swc-2025.github.io/uic/">The 22nd IEEE International Conference on Ubiquitous Intelligence and Computing (2025)</a></strong><span style="color:red">Congratulations <em><strong>Zeyi Kang! </strong></em></font>
+- <font size=3><em><strong> [06/2024]</strong>: Our paper <a href="https://arxiv.org/pdf/2310.13876">  M3ET: Efficient Vision-Language Learning for Robotics Based on Multimodal Mamba-Enhanced Transformer </a> </em>  has been accepted by <strong><a href="https://ieee-swc-2025.github.io/uic/">The 22nd IEEE International Conference on Ubiquitous Intelligence and Computing (2025)</a></strong><span style="color:red">Congratulations <em><strong>Yanxin Zhang ! </strong></em></font>
 - <img alt="Clips" src="/images/new2.gif" align="center" width="40"> <font size=3><em><strong>[03/2025]</strong>: I will be serving as Technical Committee of <strong><a href="https://iccv.thecvf.com/">ICCV 2025</a></strong>!</em></font>
 - <img alt="Clips" src="/images/new2.gif" align="center" width="40"> <font size=3><em><strong>[02/2025]</strong>: I will be serving as <em><strong>Area Chair</strong></em> of <strong><a href="https://2025.ieeeicip.org/">ICIP 2025</a></strong>!</em></font>
 - <img alt="Clips" src="/images/new2.gif" align="center" width="40"> <font size=3><em><strong>[02/2025]</strong>: I will be serving as Technical Committee of <strong><a href="https://www.icdar2025.com/">ICDAR 2025</a></strong>!</em></font>
