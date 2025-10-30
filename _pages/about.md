@@ -39,6 +39,7 @@ My research interests span in computer vision, multimodal learning and deep lear
 - <font size=3><em><strong>[02/2024]</strong>: We are organizing the <a href="https://www.euvip2024.org/" style="color:red;"> 12th European Workshop on Visual Information Processing (EUVIP 2024, IEEE) </a></em> which will be held on 8th-11th September 2024, in Geneva, Swissland. Welcome to submit!
 - <font size=3><em><strong>[02/2024]</strong>: I will be serving as Program Committee of <strong><a href="https://icdar2024.net/">ICDAR 2024</a></strong>!</em></font>
 - <font size=3><em><strong>[01/2024]</strong>: I will be serving as Technical Committee of <strong><a href="https://2024.ieeeicip.org/">ICIP 2024</a></strong>!</em></font>
+<!---
 - <font size=3><em>[05/2023]: I will serve as a session chair at 	
  <a href="https://sifed2023.sciencesconf.org/" style="color:red;"> Symposium International Francophone sur l'Ecrit et le Document (SIFED 2023)! </a></em>
 - <font size=3><em>[02/2023]: We are organizing the <a href="https://sites.google.com/view/icip-2023-object-detection/accueil" style="color:red;"> ICIP2023 Challenge Object Detection Under Uncontrolled Acquisition Environment and Scene Context Constraints </a></em> with <a href="https://www.universite-paris-saclay.fr/" style="color:black;"> <strong>University Paris Scalay</strong></a> and <a href="https://www.ntnu.edu/" style="color:black;"> <strong> NTNU </strong></a>! Welcome to submit!
@@ -46,8 +47,6 @@ My research interests span in computer vision, multimodal learning and deep lear
 - <font size=3><em>[01/2023]: We are organizing the <a href="https://www.euvip2023.org/" style="color:red;"> 11th European Workshop on Visual Information Processing (EUVIP, IEEE) </a></em> which will be held on 11th-14th September 2023, in Gjøvik, Norway. Welcome to submit!
 - <font size=3><em>07/2022: We are organizing a Special Issue <a href="https://www.mdpi.com/journal/electronics/special_issues/RY06T6PGQ0">"Deep Learning Approach for Secure and Trustworthy Biometric System" </a></em> on Electronics. Welcome to submit!
 - <font size=3><em>[06/2022]: Our paper <a href="https://arxiv.org/pdf/2203.01562.pdf" title="ViTransPAD"> Video-based Transformer for face anti-spoofing entitled ViTransPAD </a></em> has been accepted in <strong>ICIP2022</strong>!</font>
-
-<!---
 - <font size=3><em> [05/2022]: Our work <a href="https://arxiv.org/pdf/2205.12029.pdf"> VLCDoC: Vision-Language Contrastive Pre-Training
 Model for Cross-Modal Document Classification </a></em>  is submitted to <strong>Pattern Recognition</strong>!</font>
 - <font size=3><em>[03/2022]: Our work using firstly <a href="https://arxiv.org/pdf/2203.01562.pdf" title="ViTransPAD"> Video-based Transformer for face anti-spoofing entitled ViTransPAD </a> is </em> online!</font>
