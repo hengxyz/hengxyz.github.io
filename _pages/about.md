@@ -83,6 +83,8 @@ Model for Cross-Modal Document Classification </a></em>  is submitted to <strong
 - <font size=3><em><a href="http://www.cicling.org/2019/">20th International Conference on Computational Linguistics and Intelligent Text Processing, 2019]</a></em></font>  
 
 **Invited Conference Reviewer:**
+- <font size=3><em>CVPR 2026</em></font>
+- <font size=3><em>ICLR 2026</em></font>
 - <font size=3><em>ICCV 2025</em></font>
 - <font size=3><em>CVPR 2025</em></font>
 - <font size=3><em>ICASSP 2025</em></font>
