@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Research"
-    url: /expressions/
+  #- title: "Research"
+  #  url: /expressions/
     
   #- title: "Publications"
   #  url: /articles/
    
-  - title: "Teaching"
-    url: /teaching/
+  #- title: "Teaching"
+  #  url: /teaching/
     
-  - title: "Datasets"
-    url: /datasets/
+  #- title: "Datasets"
+  #  url: /datasets/
   
   #- title: "Talks"
   #  url: /talks/    
@@ -18,8 +18,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
   
-  - title: "Contact"
-    url: /contact/
+  #- title: "Contact"
+  #  url: /contact/
