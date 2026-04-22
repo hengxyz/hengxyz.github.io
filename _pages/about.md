@@ -16,7 +16,7 @@ Contact : zuheng.ming@univ-paris13.fr
 
 ## Research Interests: 
 - multimodal learning, VLM, VLA, computer vision
-- document analysis, robotic perception, medical image processing, remote sensing, biometric
+- document analysis, 3D robotic perception, medical image processing, remote sensing, biometric
 
 <!---
 My research interests span in computer vision, multimodal learning and deep learning as well as its applications.  
