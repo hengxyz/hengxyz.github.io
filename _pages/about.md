@@ -15,7 +15,7 @@ I’m Zuheng Ming, an tenured assistant professor (Maître de conférences in Fr
 Contact : zuheng.ming@univ-paris13.fr
 
 ## Research Interests: 
-- Multimodal learning, VLM, Computer vision
+- Multimodal learning, Computer vision, VLM, VLA
 - Document analysis, Medical image processing, 3D robotic perception, Remote sensing, Biometric
 
 <!---
