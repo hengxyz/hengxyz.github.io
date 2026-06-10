@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to My Homepage!"
+title: "Welcome to the homepage of Zuheng MING (明祖衡)!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
