@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zuheng Ming"
+title                    : "Zuheng Ming（明祖衡）"
 title_separator          : "-"
 name                     : &name "Zuheng Ming"
 description              : #&description "computational ethnographer<br/>ethnographer of computation"
